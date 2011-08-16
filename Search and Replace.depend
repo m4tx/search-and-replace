@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1313514101 source:/home/m4tx/Dropbox/Projects/Search and Replace/Search and Replace/main.cpp
+	<iostream>
+	<fstream>
+	<boost/filesystem.hpp>
+	<stdint.h>
+
+1313574597 
+
+1313574597 source:c:\users\m4tx\moje dokumenty\dropbox\projects\search and replace\search and replace\main.cpp
+	<iostream>
+	<fstream>
+	<boost/filesystem.hpp>
+	<stdint.h>
+
+1313578893 source:/home/m4tx/Dropbox/Projects/Search and Replace/Search and Replace/main.cpp
+	<iostream>
+	<fstream>
+	<boost/filesystem.hpp>
+	<stdint.h>
+
